@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME",
+  "homepage": "https://windprince.github.io/pawan-portfolio",
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
