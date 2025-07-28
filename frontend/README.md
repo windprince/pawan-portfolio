@@ -1,49 +1,47 @@
-# Getting Started with Create React App
+# Pawan Sharma - Professional Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Clinical Business Intelligence Specialist & AI Innovation Leader
 
-## Available Scripts
+A modern, interactive portfolio showcasing 25+ years of healthcare technology expertise and recent advancement in AI and data science.
 
-In the project directory, you can run:
+### 🌟 Highlights
 
-### `npm start`
+- **Healthcare Technology Expert**: 25+ years in pharmaceutical and medical device industries
+- **AI Pioneer**: Recent certification in Outskill AI Masterminds program
+- **Data Science Graduate**: UT Austin Postgraduate Program (2024)
+- **Strategic Leader**: Partnership development with key Life Sciences vendors
+- **Innovation Driver**: Custom AI tool development and clinical systems optimization
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🚀 Key Sections
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **AI Journey**: Detailed showcase of recent AI transformation and certifications
+- **Professional Experience**: Comprehensive career timeline at Cognizant, Medtronic, and more
+- **Projects & Achievements**: Notable contributions including 99.9% efficiency improvements
+- **Skills & Technologies**: From clinical systems to cutting-edge AI technologies
+- **Education**: Emphasizing recent AI and data science credentials
 
-### `npm test`
+### 🛠️ Technical Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This portfolio is built with:
+- **React** - Modern frontend framework
+- **Tailwind CSS** - Utility-first styling
+- **Lucide Icons** - Professional icon set
+- **Responsive Design** - Mobile-first approach
 
-### `npm run build`
+### 📞 Contact
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Email**: windprince@gmail.com
+- **Phone**: (612) 801-3144
+- **Location**: Keller, TX
+- **Languages**: English, Nepali, Hindi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🔗 Live Portfolio
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Visit: [https://windprince.github.io/pawan-portfolio](https://windprince.github.io/pawan-portfolio)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+*Bridging decades of clinical expertise with the future of artificial intelligence*
 
 ### Code Splitting
 
